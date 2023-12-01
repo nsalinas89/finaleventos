@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "225507640187",
+    "project_id": "proyectofinal-dam2023-a22d3",
+    "storage_bucket": "proyectofinal-dam2023-a22d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225507640187:android:4569766ad8dd7cdcc973de",
+        "android_client_info": {
+          "package_name": "com.nicosalinas.appeventos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUhGgG1Crz8-Fx1qE2g_cKSYYeUOJ3oO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
