@@ -17,7 +17,7 @@ class EventosPasadosTabPage extends StatelessWidget {
       appBar: AppBar(
         backgroundColor: Colors.red,
         centerTitle: true,
-        title: Text("Eventos Activos", style: TextStyle(color: Colors.white, fontWeight: FontWeight.bold)),
+        title: Text("Eventos Pasados", style: TextStyle(color: Colors.white, fontWeight: FontWeight.bold)),
       ),
       body: Expanded(
         child: Padding(
